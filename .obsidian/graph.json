@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "(Черновик)",
+      "color": {
+        "a": 1,
+        "rgb": 2424787
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.24604372907913,
+  "lineSizeMultiplier": 1.80440851791183,
+  "collapse-forces": true,
+  "centerStrength": 0.388861192222776,
+  "repelStrength": 10.7855565842889,
+  "linkStrength": 0.575742468485151,
+  "linkDistance": 250,
+  "scale": 0.6024117048609275,
+  "close": true
+}

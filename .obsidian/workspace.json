@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "a99756412f1ebe1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c561914513074d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb375d27d4732eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Матрица Гессе.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрица Гессе"
+            }
+          },
+          {
+            "id": "fb8ebd31de12ad91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Оконные функции и не стандартизированный SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оконные функции и не стандартизированный SQL"
+            }
+          },
+          {
+            "id": "5a532fc3997654bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Линейная регрессия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линейная регрессия"
+            }
+          },
+          {
+            "id": "865d19a47a333b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes/(Черновик) Градиентный спуск RmsProp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Черновик) Градиентный спуск RmsProp"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e864d70ffefbec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb5fd1a0d3dc34d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5bc0a803c08634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d388085b8dc0352",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "373dd14c2ce4760e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.50418853759766
+  },
+  "right": {
+    "id": "d67b78b0a3a5f2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32d89846a5e6bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25c821f46d60fc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atomic Notes/AdaGrad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AdaGrad"
+            }
+          },
+          {
+            "id": "8596d57a4312f8ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ffa1199e2fb46365",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f8fa8796d3e8650",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "865d19a47a333b12",
+  "lastOpenFiles": [
+    "Atomic Notes/Матрица Гессе.md",
+    "Rough Notes/(Черновик) Линейная регрессия.md",
+    "Rough Notes/(Черновик) Градиентный спуск RmsProp.md",
+    "Atomic Notes/Линейная регрессия Lasso.md",
+    "Atomic Notes/Генетические алгоритмы.md",
+    "Atomic Notes/Градиентный спуск AdaGrad.md",
+    "Atomic Notes/Градиентный спуск с инерцией.md",
+    "Atomic Notes/Градиентный спуск Нестерова.md",
+    "Atomic Notes/Градиентный спуск в машинном обучении.md",
+    "Atomic Notes/Градиентный спуск RmsProp.md",
+    "Atomic Notes/Метод наименьших квадратов (MSE).md",
+    "Atomic Notes/Не стандартизированный SQL.md",
+    "Source Material/Images/RmsPropLogo.png",
+    "Source Material/Images/RmsProp_logo.png",
+    "Rough Notes/(Черновик) Генетические алгоритмы.md",
+    "Atomic Notes/Линейная регрессия.md",
+    "Atomic Notes/Линейная регрессия ElasticNet.md",
+    "Atomic Notes/Центральная предельная теорема.md",
+    "Atomic Notes/Распределение Пуассона.md",
+    "Atomic Notes/Распределение нормальное.md",
+    "Atomic Notes/Распределение Бернулли.md",
+    "Atomic Notes/Оконные функции и не стандартизированный SQL.md",
+    "Atomic Notes/Обобщённые линейные модели.md",
+    "Atomic Notes/Неградиентные методы оптимизации.md",
+    "Atomic Notes/Логистическая регрессия.md",
+    "Atomic Notes/Градиентный спуск Adam.md",
+    "Source Material/Images/Градиентный_спуск_с_инерцией_logo.png",
+    "1658298956_1-flomaster-club-p-inertsiya-risunok-krasivo-1 1.jpg",
+    "1658298956_1-flomaster-club-p-inertsiya-risunok-krasivo-1.jpg",
+    "Source Material/Images/Градиентный_спуск_в_машинном_обучении_лого.png",
+    "Atomic Notes/Генетические алгоритмы 2.md",
+    "Atomic Notes/Untitled.base",
+    "Генетические_алгоритмы_мутация_art.png",
+    "scale_1200.png",
+    "Pyrene_adduct.png",
+    "18129382.png",
+    "Source Material/Videos/AdaGrad_3d_loss_function.mp4",
+    "Source Material/Other",
+    "Source Material/Images",
+    "Source Material/Videos",
+    "Source Material/Books",
+    "Source Material/Articles",
+    "Source Material/Videos/Adam_jumps.mp4",
+    "Videos",
+    "Images",
+    "Untitled.canvas"
+  ]
+}
