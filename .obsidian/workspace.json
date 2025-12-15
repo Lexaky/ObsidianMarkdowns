@@ -13,30 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Матрица Гессе.md",
+                "file": "Atomic Notes/KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Матрица Гессе"
+              "title": "KNN"
             }
           },
           {
-            "id": "fb8ebd31de12ad91",
+            "id": "2d0a87d97e784fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Оконные функции и не стандартизированный SQL.md",
+                "file": "Atomic Notes/KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оконные функции и не стандартизированный SQL"
+              "title": "KNN"
             }
           },
           {
-            "id": "5a532fc3997654bd",
+            "id": "a6b40de982f004bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Генетические алгоритмы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Генетические алгоритмы"
+            }
+          },
+          {
+            "id": "2c1ca9bf2a7af37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes/Не стандартизированный SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Не стандартизированный SQL"
+            }
+          },
+          {
+            "id": "67abfeff19fb259c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes/Центральная предельная теорема.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Центральная предельная теорема"
+            }
+          },
+          {
+            "id": "fb8ebd31de12ad91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,6 +89,48 @@
               },
               "icon": "lucide-file",
               "title": "Линейная регрессия"
+            }
+          },
+          {
+            "id": "55f8b2c971d92be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes/Домашка по субд.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домашка по субд"
+            }
+          },
+          {
+            "id": "91118ef029072013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes/Домашка по субд.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домашка по субд"
+            }
+          },
+          {
+            "id": "5a532fc3997654bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes/SVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SVM"
             }
           },
           {
@@ -62,9 +146,37 @@
               "icon": "lucide-file",
               "title": "(Черновик) Градиентный спуск RmsProp"
             }
+          },
+          {
+            "id": "f4c66be9a9625e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Градиентный спуск Нестерова.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Градиентный спуск Нестерова"
+            }
+          },
+          {
+            "id": "13e0b187668c4d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/KNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KNN"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -121,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.50418853759766
+    "width": 293.5
   },
   "right": {
     "id": "d67b78b0a3a5f2c9",
@@ -210,44 +322,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "865d19a47a333b12",
+  "active": "5a532fc3997654bd",
   "lastOpenFiles": [
-    "Atomic Notes/Матрица Гессе.md",
+    "Rough Notes/Изоляция транзакций.md",
+    "Rough Notes/Кластеризация.md",
+    "Rough Notes/Тестирование гипотез.md",
     "Rough Notes/(Черновик) Линейная регрессия.md",
-    "Rough Notes/(Черновик) Градиентный спуск RmsProp.md",
-    "Atomic Notes/Линейная регрессия Lasso.md",
-    "Atomic Notes/Генетические алгоритмы.md",
-    "Atomic Notes/Градиентный спуск AdaGrad.md",
-    "Atomic Notes/Градиентный спуск с инерцией.md",
-    "Atomic Notes/Градиентный спуск Нестерова.md",
-    "Atomic Notes/Градиентный спуск в машинном обучении.md",
+    "Pasted image 20251212225310.png",
+    "Pasted image 20251212220025.png",
+    "Rough Notes/Домашка по субд.md",
+    "Pasted image 20251212225236.png",
+    "Pasted image 20251212220853.png",
+    "Pasted image 20251212220030.png",
+    "Rough Notes/SVM.md",
+    "Rough Notes/OLTP ETL HDD SSD.md",
+    "Rough Notes/Виды индексов.md",
+    "Rough Notes/Не стандартизированный SQL.md",
+    "Rough Notes/Смысл СУБД.md",
+    "Atomic Notes/Линейная регрессия.md",
     "Atomic Notes/Градиентный спуск RmsProp.md",
-    "Atomic Notes/Метод наименьших квадратов (MSE).md",
-    "Atomic Notes/Не стандартизированный SQL.md",
+    "Atomic Notes/Градиентный спуск AdaGrad.md",
+    "Atomic Notes/Градиентный спуск Нестерова.md",
+    "Atomic Notes/Градиентный спуск Adam.md",
+    "Rough Notes/Эффект множественных сравнений. Введение в дисперсионный анализ. Множественные сравнения после ANOVA.md",
+    "Rough Notes/Центральная предельная теорема.md",
+    "Rough Notes/Распределение Бернулли.md",
+    "Rough Notes/Распределение нормальное.md",
+    "Rough Notes/Обобщённые линейные модели.md",
+    "Rough Notes/Метод наименьших квадратов (MSE).md",
+    "Rough Notes/Матрица Гессе.md",
+    "Atomic Notes/Градиентный спуск в машинном обучении.md",
+    "Rough Notes/(Черновик) Градиентный спуск RmsProp.md",
+    "Rough Notes/Логистическая регрессия.md",
+    "Текстовый документ.txt",
+    "Atomic Notes/English",
     "Source Material/Images/RmsPropLogo.png",
     "Source Material/Images/RmsProp_logo.png",
-    "Rough Notes/(Черновик) Генетические алгоритмы.md",
-    "Atomic Notes/Линейная регрессия.md",
-    "Atomic Notes/Линейная регрессия ElasticNet.md",
-    "Atomic Notes/Центральная предельная теорема.md",
-    "Atomic Notes/Распределение Пуассона.md",
-    "Atomic Notes/Распределение нормальное.md",
-    "Atomic Notes/Распределение Бернулли.md",
-    "Atomic Notes/Оконные функции и не стандартизированный SQL.md",
-    "Atomic Notes/Обобщённые линейные модели.md",
-    "Atomic Notes/Неградиентные методы оптимизации.md",
-    "Atomic Notes/Логистическая регрессия.md",
-    "Atomic Notes/Градиентный спуск Adam.md",
     "Source Material/Images/Градиентный_спуск_с_инерцией_logo.png",
     "1658298956_1-flomaster-club-p-inertsiya-risunok-krasivo-1 1.jpg",
     "1658298956_1-flomaster-club-p-inertsiya-risunok-krasivo-1.jpg",
-    "Source Material/Images/Градиентный_спуск_в_машинном_обучении_лого.png",
-    "Atomic Notes/Генетические алгоритмы 2.md",
     "Atomic Notes/Untitled.base",
-    "Генетические_алгоритмы_мутация_art.png",
-    "scale_1200.png",
-    "Pyrene_adduct.png",
-    "18129382.png",
     "Source Material/Videos/AdaGrad_3d_loss_function.mp4",
     "Source Material/Other",
     "Source Material/Images",
@@ -255,8 +369,6 @@
     "Source Material/Books",
     "Source Material/Articles",
     "Source Material/Videos/Adam_jumps.mp4",
-    "Videos",
-    "Images",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#Database",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10.7855565842889,
   "linkStrength": 0.575742468485151,
   "linkDistance": 250,
-  "scale": 0.6024117048609275,
+  "scale": 0.3771561055963627,
   "close": true
 }
