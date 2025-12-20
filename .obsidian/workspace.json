@@ -22,45 +22,57 @@
             }
           },
           {
-            "id": "2d0a87d97e784fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/KNN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KNN"
-            }
-          },
-          {
-            "id": "a6b40de982f004bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/Генетические алгоритмы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Генетические алгоритмы"
-            }
-          },
-          {
             "id": "2c1ca9bf2a7af37c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Source Material/Images/Множественные_сравнения_больные.png"
+              },
+              "icon": "lucide-image",
+              "title": "Множественные_сравнения_больные"
+            }
+          },
+          {
+            "id": "df17639a8478aaa7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough Notes/Не стандартизированный SQL.md",
+                "file": "Atomic Notes/Math/Тестирование гипотез о равенстве средних двух генеральных совокупностей. Непараметрические критерии. Анализ качественных признаков. Критерий Хи-квадрат.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Не стандартизированный SQL"
+              "title": "Тестирование гипотез о равенстве средних двух генеральных совокупностей. Непараметрические критерии. Анализ качественных признаков. Критерий Хи-квадрат"
+            }
+          },
+          {
+            "id": "f2ff431963a0fa45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Math/Множественные сравнения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Множественные сравнения"
+            }
+          },
+          {
+            "id": "179f85f5076b93ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes/Требования к качеству услуг.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Требования к качеству услуг"
             }
           },
           {
@@ -111,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough Notes/Домашка по субд.md",
+                "file": "Atomic Notes/Math/Множественные сравнения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Домашка по субд"
+              "title": "Множественные сравнения"
             }
           },
           {
@@ -131,6 +143,48 @@
               },
               "icon": "lucide-file",
               "title": "SVM"
+            }
+          },
+          {
+            "id": "33328c913b07eec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Math/Множественные сравнения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Множественные сравнения"
+            }
+          },
+          {
+            "id": "09766ee27db4df08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Math/Многомерный статистический анализ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Многомерный статистический анализ"
+            }
+          },
+          {
+            "id": "b6b37bc6b85a7d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Math/Элементы теории вероятности и математической статистики.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Элементы теории вероятности и математической статистики"
             }
           },
           {
@@ -176,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 319.5
   },
   "right": {
     "id": "d67b78b0a3a5f2c9",
@@ -322,53 +376,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a532fc3997654bd",
+  "active": "8b5bc0a803c08634",
   "lastOpenFiles": [
-    "Rough Notes/Изоляция транзакций.md",
-    "Rough Notes/Кластеризация.md",
-    "Rough Notes/Тестирование гипотез.md",
+    "Atomic Notes/Math/Множественные сравнения.md",
+    "Atomic Notes/Math/Тестирование гипотез 1.md",
+    "Source Material/Images/Множественные_сравнения_пример_больных.png",
+    "Source Material/Images/Множественные_сравнения_Таблица_критерий_Фридмана.png",
+    "Source Material/Images/Множественные_сравнения_Таблица_критерий_Данна.png",
+    "Atomic Notes/Math/Элементы теории вероятности и математической статистики.md",
+    "Rough Notes/Требования к качеству услуг.md",
+    "Source Material/Images/Множественные_сравнения_больные.png",
+    "Source Material/Images/Множественные_сравнения_больные_гипертензия.png",
+    "Pasted image 20251220120623.png",
+    "Atomic Notes/DB",
+    "Atomic Notes/Math/Элементы теории вероятности и математической статистики (продолжение).md",
+    "Atomic Notes/Math/Многомерный статистический анализ.md",
+    "Atomic Notes/Untitled.md",
+    "Source Material/Images/Множественные_сравнения_ОДА1.png",
+    "Atomic Notes/Math/Эффект множественных сравнений.md",
+    "Atomic Notes/ML/KNN.md",
+    "Atomic Notes/ML/Кластеризация.md",
+    "Atomic Notes/DB/Изоляция транзакций.md",
     "Rough Notes/(Черновик) Линейная регрессия.md",
-    "Pasted image 20251212225310.png",
-    "Pasted image 20251212220025.png",
-    "Rough Notes/Домашка по субд.md",
-    "Pasted image 20251212225236.png",
-    "Pasted image 20251212220853.png",
-    "Pasted image 20251212220030.png",
-    "Rough Notes/SVM.md",
-    "Rough Notes/OLTP ETL HDD SSD.md",
-    "Rough Notes/Виды индексов.md",
-    "Rough Notes/Не стандартизированный SQL.md",
-    "Rough Notes/Смысл СУБД.md",
-    "Atomic Notes/Линейная регрессия.md",
-    "Atomic Notes/Градиентный спуск RmsProp.md",
-    "Atomic Notes/Градиентный спуск AdaGrad.md",
-    "Atomic Notes/Градиентный спуск Нестерова.md",
-    "Atomic Notes/Градиентный спуск Adam.md",
-    "Rough Notes/Эффект множественных сравнений. Введение в дисперсионный анализ. Множественные сравнения после ANOVA.md",
-    "Rough Notes/Центральная предельная теорема.md",
-    "Rough Notes/Распределение Бернулли.md",
-    "Rough Notes/Распределение нормальное.md",
-    "Rough Notes/Обобщённые линейные модели.md",
+    "Atomic Notes/DB/Виды индексов.md",
+    "Atomic Notes/ML/Обобщённые линейные модели.md",
+    "Atomic Notes/DB/Не стандартизированный SQL.md",
     "Rough Notes/Метод наименьших квадратов (MSE).md",
-    "Rough Notes/Матрица Гессе.md",
-    "Atomic Notes/Градиентный спуск в машинном обучении.md",
-    "Rough Notes/(Черновик) Градиентный спуск RmsProp.md",
-    "Rough Notes/Логистическая регрессия.md",
+    "Atomic Notes/ML/Генетические алгоритмы.md",
+    "Source Material/Images/Эффект_множественных_сравнений_значениеF.png",
+    "Source Material/Images/Эффект_множественных_сравнений_первый_слайд.png",
+    "Atomic Notes/Math/Тестирование гипотез 2.md",
+    "Source Material/Images/Тестирование_гипотез_2_mosaicplot.png",
+    "Atomic Notes/ML",
+    "Atomic Notes/Math",
+    "Atomic Notes/ML/SVM.md",
+    "Rough Notes/Домашка по субд.md",
+    "Atomic Notes/DB/OLTP ETL HDD SSD.md",
+    "Atomic Notes/DB/Смысл СУБД.md",
+    "Atomic Notes/ML/Линейная регрессия.md",
+    "Atomic Notes/ML/Градиентный спуск RmsProp.md",
+    "Atomic Notes/ML/Градиентный спуск AdaGrad.md",
     "Текстовый документ.txt",
     "Atomic Notes/English",
-    "Source Material/Images/RmsPropLogo.png",
-    "Source Material/Images/RmsProp_logo.png",
-    "Source Material/Images/Градиентный_спуск_с_инерцией_logo.png",
-    "1658298956_1-flomaster-club-p-inertsiya-risunok-krasivo-1 1.jpg",
-    "1658298956_1-flomaster-club-p-inertsiya-risunok-krasivo-1.jpg",
     "Atomic Notes/Untitled.base",
     "Source Material/Videos/AdaGrad_3d_loss_function.mp4",
     "Source Material/Other",
     "Source Material/Images",
     "Source Material/Videos",
-    "Source Material/Books",
-    "Source Material/Articles",
-    "Source Material/Videos/Adam_jumps.mp4",
     "Untitled.canvas"
   ]
 }
